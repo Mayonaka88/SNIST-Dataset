@@ -6,3 +6,5 @@
 >![d](output.png)
 
 > A sample set has been provided in this repository.
+
+> The dataset has been utilized in [Text Extraction and Transcription System Using CRNN and EAST For Automatic Multiple Text Transcription From Images](https://github.com/Mayonaka88/text-extraction-and-transcription-system) 
